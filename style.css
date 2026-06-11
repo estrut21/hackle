@@ -56,3 +56,19 @@ button:hover {
     border-radius: 8px;
     border: none;
 }
+
+.terminal {
+    background-color: #000000;
+    color: #00ff00;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: monospace;
+}
+
+img {
+    width: 80%;
+    max-width: 700px;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+}
